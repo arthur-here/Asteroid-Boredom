@@ -1,0 +1,28 @@
+{"frames": {
+
+"eye-closed.png":
+{
+	"frame": {"x":200,"y":0,"w":200,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":200,"h":138},
+	"sourceSize": {"w":202,"h":144}
+},
+"eye-open.png":
+{
+	"frame": {"x":0,"y":0,"w":200,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":200,"h":138},
+	"sourceSize": {"w":202,"h":144}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "eye.png",
+	"format": "RGBA8888",
+	"size": {"w":400,"h":138},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a90070d1d193c4194717c683cb208180:778803cf85a652184a7d827801949b22:5c4b9fac051ac46f20e3421a557b0ef2$"
+}
+}
